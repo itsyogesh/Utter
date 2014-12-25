@@ -7,7 +7,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="menu_logout_label">Logout</string>
-    <string name="title_activity_login">Login</string>
+    <string name="title_activity_login">login</string>
     <string name="username_hint">Username</string>
     <string name="password_hint">Password</string>
     <string name="email_hint">Email</string>
@@ -34,5 +34,22 @@
 
     <string name="title_activity_recipients">Choose Recipients</string>
     <string name="title_activity_view_image">Utter</string>
+    <string name="title_activity_dispatch">DispatchActivity</string>
+    <string name="title_activity_splash_screen">Splash Screen</string>
+    <string name="facebook_app_id">844554582261759</string>
+    <string name="forgotPasswordText"><![CDATA[Forgot Password >]]></string>
+    <string name="welcomeBackText">Welcome Back</string>
+    <string name="or">or</string>
+    <string name="fbLoginButtonText">f  login</string>
+    <string name="noAccountSignupText"><![CDATA[Don\'t have an account. Signup >]]></string>
+    <string name="firstNameText">First Name</string>
+    <string name="lastNameText">Last Name</string>
+    <string name="alreadyHaveAccountText"><![CDATA[Already have an account. Login >]]></string>
+    <string name="selectProfilePicText">select profile image</string>
+    <string name="utterMainLogoText">utter main logo</string>
+    <string name="getStartedText">get started</string>
+    <string name="title_activity_get_started">Get Started</string>
+    <string name="signUpWithEmailText">signup with email</string>
+    <string name="signUpWithFacebook">signup with facebook</string>
 
 </resources>

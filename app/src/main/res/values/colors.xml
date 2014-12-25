@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_grey">#4A4A4A</color>
+    <color name="theme_color">#79afb6</color>
+    <color name="theme_color_dark">#5D898F</color>
+    <color name="fb_color">#3B5998</color>
+    <color name="fb_color_dark">#233A6A</color>
+    <color name="light_grey">#A8A8A8</color>
+    <color name="grey_bg">#EDEDED</color>
+    <color name="dark_blue_bg">#233D4D</color>
+    <color name="dark_blue_selected">#192B37</color>
+</resources>

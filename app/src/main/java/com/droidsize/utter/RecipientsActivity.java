@@ -1,6 +1,5 @@
 package com.droidsize.utter;
 
-import android.app.Activity;
 import android.app.ListActivity;
 import android.net.Uri;
 import android.os.Bundle;
@@ -13,6 +12,8 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
 
+import com.droidsize.utter.utils.FileHelper;
+import com.droidsize.utter.utils.ParseConstants;
 import com.parse.FindCallback;
 import com.parse.ParseException;
 import com.parse.ParseFile;

@@ -28,4 +28,8 @@ dependencies {
     }
     compile 'commons-io:commons-io:2.4'
     compile 'com.squareup.picasso:picasso:2.4.0'
+    compile 'com.soundcloud.android:android-crop:0.9.10@aar'
+    compile 'com.facebook.android:facebook-android-sdk:3.21.1'
+    compile 'com.nineoldandroids:library:2.4.0'
+    compile 'com.daimajia.slider:library:1.1.2@aar'
 }
